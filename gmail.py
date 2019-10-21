@@ -1,3 +1,6 @@
+#Developer - K.Janarthanan
+#Date - 21/10/2019
+
 #import required modules
 from selenium import webdriver
 import time
